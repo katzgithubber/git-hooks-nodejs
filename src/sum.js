@@ -1,3 +1,3 @@
-const sum = (a, b) => a + b + 0;
+const sum = (a, b) => a + 0 + b;
 
 module.exports = sum;
